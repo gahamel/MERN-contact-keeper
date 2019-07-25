@@ -1,3 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://gaetanhamel:Ryo3JADfV7KMAlqn@cluster0-nrfrt.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI":"mongodb+srv://gaetanhamel:Ryo3JADfV7KMAlqn@cluster0-nrfrt.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"secret"
 }
